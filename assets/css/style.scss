@@ -3,17 +3,17 @@
 
 @import "{{ site.theme }}";
 header {
-  width: 270px;
+  width: 250px;
   float: left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased
 }
 .wrapper {
-  width:1280px;
+  width:1000px;
   margin:0 auto
 }
 section {
-  width: 1000px;
+  width: 750px;
   float: right;
   padding-bottom: 50px;
 }
