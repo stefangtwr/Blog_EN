@@ -11,7 +11,7 @@
 
 # General Information
 
-[Machines and Equipment](URL)
+[Machines and Equipment](/shop/shop.md)
 
 # Archive
 
