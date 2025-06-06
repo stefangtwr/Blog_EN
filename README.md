@@ -1,6 +1,6 @@
 # New Posts
 
->[Blogpost1](URL) - 06.06.2025  
+>[Blogpost1](/posts/06.06.2025_catchingfish.md) - 06.06.2025  
 > Catching a fish with a toolroom milling machine
 
 >[Blogpost2](URL) - 06.06.2025  
@@ -12,7 +12,4 @@
 
 # Archive
 
-[Blogpost1](URL)  
-[Blogpost2](URL)  
-[Blogpost3](URL)  
-[Blogpost4](URL)  
+[Old Posts in chronological Order](URL)
