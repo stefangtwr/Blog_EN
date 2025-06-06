@@ -97,7 +97,7 @@ Magnified view - 0,4 / 0,2 / 0,1mm spotting diameter, left to right.
 
 </p>
 
-### Spotting in hardened steel, an Old Carl Zeiss gage block:
+### Spotting in hardened steel, an Old Carl Zeiss gage block
 <p>
     <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock.jpg" height="240"></a>
     <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock_magnified.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_gageblock_magnified.jpg" height="240"></a>
@@ -105,7 +105,7 @@ Magnified view - 0,4 / 0,2 / 0,1mm spotting diameter, left to right.
 
 Even in hardened steel, the pyramid drill leaves a very good center with minimal burr – Its amazing how well the unconventional geometry of the tool cuts almost all common materials.
 
-### Spott drilled stainless steel workpiece:
+### Spott drilled stainless steel workpiece
 
 <p>
     <a href="post_assets/2025_06_06_pyramid_spotting_drill/spot_14305.jpg"> <img src="post_assets/2025_06_06_pyramid_spotting_drill/spot_14305.jpg" height="240"></a>
