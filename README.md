@@ -1,8 +1,8 @@
 # New Posts
 
->06.06.2025 - [Catching a fish with a toolroom milling machine](/posts/06.06.2025_catchingfish.md)
+>01.06.2025 - [Pyramid spotting drill](/posts/06.06.2025_pyramid_spotting_drill.md)
 
->06.06.2025 - [Sorting potatoes with a nuclear bomb](URL)  
+>06.06.2025 - [Catching a fish with a toolroom milling machine](/posts/06.06.2025_catchingfish.md)
 
 # General Information
 
