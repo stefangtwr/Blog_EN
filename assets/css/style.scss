@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 header {
-  width:170px;
+  width:270px;
   float:right;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased
@@ -11,4 +11,9 @@ header {
 .wrapper {
   width:1280px;
   margin:0 auto
+}
+section {
+  width: auto;
+  float: right;
+  padding-bottom: 50px;
 }
