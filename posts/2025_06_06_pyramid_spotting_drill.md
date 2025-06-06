@@ -39,7 +39,7 @@ As mentioned, there are spotting drills with thinned webs or single flute versio
 
 The pyramid spotting drill is available as a commercial tool by Mitsubishi, in a nice, coated version.
 
-https://www.mitsubishicarbide.net/mhg/de/drilling/10000516/20077520
+<https://www.mitsubishicarbide.net/mhg/de/drilling/10000516/20077520>
 
 It also comes with a technical datasheet that points out the advantages of this shape and recommendations for speeds and feeds.
 
@@ -116,7 +116,7 @@ Even in hardened steel, the pyramid drill leaves a very good center with minimal
 This type of tool does not seem to be very well known, but it is sure worth giving it a try, if you have the capability of grinding them yourself.
 Danny Rudolph mentioned these a few times in posts on Instagram, if you go back far enough in his posts.
 
-https://www.instagram.com/dannyrudolph/  
+<https://www.instagram.com/dannyrudolph/>  
 Thank you, Danny, for making me aware of this tool.
 
 One thing you, the reader, might ask: A 90° spot drill is problematic for carbide drills, since the tip angles don’t match up, right?

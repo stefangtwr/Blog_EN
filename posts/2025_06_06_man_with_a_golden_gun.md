@@ -30,4 +30,4 @@ While getting some information from Lazar, the gunsmith played by Marne Maitland
 </p>
 
 The entire scene can be reviewed here:  
-https://youtu.be/rzlDjnUWq1Q?si=rtdwpsIxdHgzZ6yK
+<https://youtu.be/rzlDjnUWq1Q?si=rtdwpsIxdHgzZ6yK>
