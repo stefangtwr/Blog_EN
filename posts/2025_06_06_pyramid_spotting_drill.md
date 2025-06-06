@@ -1,6 +1,6 @@
 # Pyramid spotting drill
 
-*2025_06_06*
+*06.06-2025*
 
 ## General
 
